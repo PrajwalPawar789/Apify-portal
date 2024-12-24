@@ -5,7 +5,7 @@ const { Client } = pkg;
 
 // Initialize the ApifyClient with API token
 const client = new ApifyClient({
-    token: 'apify_api_WwKXCAWqBDKCcVYBe9y4R2Ge2tNV8e3H0Ggc',
+    token: 'apify_api_NxKPOjw9GElYb1JfVaudahyUlCGdjf4uSP1m',
 });
 
 // Initialize PostgreSQL client
